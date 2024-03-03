@@ -1,0 +1,15 @@
+.video-player {
+  flex: 1;
+
+  background-color: black;
+  overflow: hidden;
+  border-radius: 0.5rem;
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+
+  video {
+    width: 100%;
+  }
+}
